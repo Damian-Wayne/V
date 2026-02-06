@@ -131,7 +131,7 @@ export default function App() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.3 }}
               >
-                Happy Valentine's Day!
+                Hiya Darling!
               </motion.h1>
 
               <motion.p
@@ -319,7 +319,7 @@ export default function App() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.3 }}
               >
-                You Better Have Said Yes
+                Hehehehe, I Knew IT  
               </motion.p>
 
               <motion.div
@@ -351,7 +351,7 @@ export default function App() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1 }}
               >
-                Happy Valentine's Day SAM! 💕
+                I'll see you on the 14th Ms.Samantha Lyons 💕
               </motion.p>
             </motion.div>
           )}
